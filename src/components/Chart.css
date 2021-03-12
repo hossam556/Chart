@@ -1,0 +1,7 @@
+.chart{
+    /* height: 100vh; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:#1F1B37 ;
+}
